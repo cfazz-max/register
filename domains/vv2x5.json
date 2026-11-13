@@ -4,14 +4,13 @@
     "email": "cfr223azz@gmail.com"
   },
   "records": {
-    "CNAME": "cloud-mail.cfr223azz.workers.dev",
     "MX": [
       "mx1.improvmx.com",
       "mx2.improvmx.com"
     ],
     "TXT": [
       "v=spf1 include:spf.improvmx.com ~all"
-    ]
-  },
-  "proxied": false
+    ],
+    "URL": "https://cloud-mail.cfr223azz.workers.dev"
+  }
 }
